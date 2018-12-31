@@ -1,4 +1,4 @@
-name: Vishwas
+name: {"name":"Vishwas"}
 server:
   port: 8084
 eureka:

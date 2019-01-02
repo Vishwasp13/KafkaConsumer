@@ -10,4 +10,4 @@ ribbonclient:
   ribbon:
     eureka:
       enabled: false
-    listOfServers: http://localhost:9001,http://localhost:9002
+    listOfServers: http://localhost:8084,http://localhost:8085

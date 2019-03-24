@@ -1,5 +1,4 @@
-
-name: Vishwas
+name: secondapp
 server:
   port: 8085
 eureka:

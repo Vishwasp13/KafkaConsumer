@@ -1,4 +1,4 @@
-name: Vishwas
+name: firstapp
 server:
   port: 8084
 eureka:
